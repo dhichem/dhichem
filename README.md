@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm hichem</h1>
 
-<h4 align="center">A passionate mobile and web developer</h4>
+<h4 align="center">A passionate Full Stack developer</h4>
 
 
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Laravel**
 
 - 🎓 I’m Studying Software Engineering
 

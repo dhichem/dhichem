@@ -1,8 +1,7 @@
 <h2>Hey there 👋</h2>
 
 <h4>I'm a Software Engineer and I'm (very) passionate about Clean Code, Performance & Scalable Solutions</h4>
-
-
+<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhichem&layout=compact&theme=radical)
 
 <h3>Click on the dropdown for further info :small_red_triangle_down:</h3>
